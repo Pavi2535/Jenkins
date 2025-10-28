@@ -1,0 +1,14 @@
+# 🧩 Create a Freestyle Project to Perform Build Operations Using Maven (with Git SCM)
+
+1. Click on **Create Job** and select **Freestyle Project**.  
+2. Under **Source Code Management**, select **Git** and paste your Maven project repository URL.  
+3. Change the branch name if required.  
+4. Under **Build Steps**, click **Add Build Step** → select **Invoke top-level Maven targets**.  
+5. Set **Maven Version** as Maven and in **Goals**, write: 
+clean package > apply then save 
+6. Click **Apply** and then **Save**.  
+7. To download Maven, go to **Manage Jenkins → Tools**.  
+8. Click on **Add Maven**, give a name, then **Apply** and **Save**.  
+9. Now click **Build Now** to start the build.
+ 
+
