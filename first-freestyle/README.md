@@ -4,7 +4,7 @@
     <img width="1915" height="842" alt="Image" src="https://github.com/user-attachments/assets/baa37288-4ab7-40a3-80b6-262b3eaa8f0b" />
     
 2. Enter a name for your project and Select the option **“Freestyle project”** and click **OK**. 
- <img width="1895" height="864" alt="Image" src="https://github.com/user-attachments/assets/6c2636f1-4cbe-4e72-a154-ba751247a9f2" />
+    <img width="1895" height="864" alt="Image" src="https://github.com/user-attachments/assets/6c2636f1-4cbe-4e72-a154-ba751247a9f2" />
    
 3. In the configuration page, go to the **Build Environment** section ,  Under **Build Steps**, click **“Add build step” → “Execute shell”**.
    <img width="1883" height="850" alt="Image" src="https://github.com/user-attachments/assets/8ad4841e-ab79-47bd-a68e-f0abf033f5fa" />
